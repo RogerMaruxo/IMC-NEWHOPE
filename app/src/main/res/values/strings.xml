@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NEWHOPE</string>
+    <string name="imc">IMC</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="altura_ex_1_68m">Altura (ex:1.68m)</string>
+    <string name="peso_ex_65_8_kg">Peso (ex:65.8 kg)</string>
+</resources>
